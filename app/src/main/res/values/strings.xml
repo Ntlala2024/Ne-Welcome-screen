@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Ne Welcome screen</string>
+    <string name="title_activity_flachcard">Flachcard</string>
+    <string name="title_activity_flashcard">Flashcard</string>
+    <string name="title_activity_scorescreen">Scorescreen</string>
+</resources>
